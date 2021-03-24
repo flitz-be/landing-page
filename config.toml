@@ -8,9 +8,6 @@ unsafe = true
 URL = "about-us"
 name = "About Us"
 [[menu.company]]
-URL = "quick-start"
-name = "Quick Start"
-[[menu.company]]
 URL = "terms-conditions"
 name = "Terms & Conditions"
 [[menu.main]]
@@ -38,6 +35,7 @@ description = "This is meta description"
 logo = "images/logo.png"
 logo_width = "200px"
 [params.company]
+name = "Flitz Technologies"
 address = "Blekerijstraat 75 1.29"
 city = "9000 Gent"
 country = "Belgium"
