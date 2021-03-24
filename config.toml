@@ -1,4 +1,4 @@
-baseURL = "http://flitz.be/"
+baseURL = "https://flitz.be/"
 languageCode = "en-us"
 title = "Flitz"
 theme = ["sicily-hugo-theme"]
