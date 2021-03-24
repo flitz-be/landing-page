@@ -1,0 +1,69 @@
+baseURL = "http://flitz.be/"
+languageCode = "en-us"
+title = "Flitz"
+theme = ["sicily-hugo-theme"]
+[markup.goldmark.renderer]
+unsafe = true
+[[menu.company]]
+URL = "about-us"
+name = "About Us"
+[[menu.company]]
+URL = "quick-start"
+name = "Quick Start"
+[[menu.company]]
+URL = "terms-conditions"
+name = "Terms & Conditions"
+[[menu.main]]
+URL = "blog"
+name = "Blog"
+weight = 1
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 3
+[[menu.main]]
+URL = "faq"
+name = "FAQ"
+weight = 4
+[[menu.product]]
+URL = "faq"
+name = "FAQ"
+[[menu.product]]
+URL = "privacy-policy"
+name = "Privacy Policy"
+[params]
+author = "kwintendebacker"
+contact_form_action = "#"
+description = "This is meta description"
+logo = "images/logo.png"
+logo_width = "200px"
+[params.company]
+address = "Blekerijstraat 75 1.29"
+city = "9000 Gent"
+country = "Belgium"
+email = "hello@flitz.be"
+[params.navigation_button]
+enable = true
+label = "Log in"
+link = "https://app.flitz.be"
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "plugins/custom/clean-footer.css"
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[params.preloader]
+enable = false
+preloader = ""
+[[params.footer]]
+rol_email = "kwinten@flitz.be"
+rol_name = "Chief executive officer"
+rol_representative = "Kwinten De Backer"
