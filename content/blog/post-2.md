@@ -11,9 +11,12 @@ description: "This is meta description"
 draft: false
 ---
 
+## A deep-dive explanation by Andreas Antanopoulos
 {{< youtube XCSfoiD8wUA >}}
 
+## Wallet tutorial: Phoenix Wallet
+{{< youtube Cx5PK1H5OR0 >}}
+## Wallet tutorial: Breez Wallet
 {{< youtube t_4b-y4T8bY >}}
 
-{{< youtube Cx5PK1H5OR0 >}}
 
