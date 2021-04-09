@@ -26,7 +26,17 @@ We do not hold custody over your funds for longer than necessary.
 - Open the app and click withdraw. Your wallet should open automatically. For withdrawal using the web client, copy paste an invoice in the [web client](https://app.flitz.be).
 - After confirming in your wallet, you will receive your funds. Congratulations!
 {{</ faq >}}
+{{< faq "What information do we collect and why?" >}}
+Because we are a regulated company in Belgium that convert euro to bitcoin on behalf of our customers, we collect the following information from our customers when they sign up:
 
+- E-mail
+- Full name
+- Country of residence 
+
+When you send us a bank transfer, we get this information as well, so giving us 
+this information at sign-up time allows us to check this information, but you are
+not giving up information that would not be available to us anyway when you are using our platform.
+{{</ faq >}}
 {{< faq "What wallets are supported?" >}}
 You can use any wallet on the web client by copy-pasting an LN invoice, but for the best user experience on mobile we recommend the following wallets:
 
@@ -47,17 +57,7 @@ You can use any wallet on the web client by copy-pasting an LN invoice, but for 
 - Play [Zebedee](https://zebedee.io/), a Bitcoin-powered gaming platform. Earn bitcoin while playing CSGO and other games.
 {{</ faq >}}
 
-{{< faq "What information do we collect and why?" >}}
-Because we are a regulated company in Belgium that convert euro to bitcoin on behalf of our customers, we collect the following information from our customers when they sign up:
 
-- E-mail
-- Full name
-- Country of residence 
-
-When you send us a bank transfer, we get this information as well, so giving us 
-this information at sign-up time allows us to check this information, but you are
-not giving up information that would not be available to us anyway when you are using our platform.
-{{</ faq >}}
 {{< faq "What are the limits?" >}}
 - 1000 euro per month
 - Minimum transaction size: 5 euro
