@@ -11,9 +11,6 @@ description: "This is meta description"
 draft: false
 ---
 
-
-# Insanely simple
-
 There are many platforms that claim to be the most simple way to buy bitcoin, but we believe they are all wrong. A typical platform requires a lot of hoops to jump through before you can actually convert your euro's to bitcoin:
 
 - Give up an insane amount of personal information, before you are even allowed to sign in.
