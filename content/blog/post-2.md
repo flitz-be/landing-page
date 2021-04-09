@@ -11,7 +11,7 @@ description: "This is meta description"
 draft: false
 ---
 
-## A deep-dive explanation by Andreas Antanopoulos
+## A deep-dive explanation by Andreas Antonopoulos
 {{< youtube XCSfoiD8wUA >}}
 
 ## Wallet tutorial: Phoenix Wallet
