@@ -9,10 +9,12 @@ draft: false
 
 {{< faq "What is Flitz?" >}}
 Flitz is your gateway drug to the Bitcoin world.
+
 - Buy bitcoin instantly in Europe with a bank transfer or other payment method.
 - Your coins are withdrawable instantly over the [Lightning Network](https://www.lopp.net/lightning-information.html). 
 - Dollar-cost-average easily by setting a recurring bank transfer.
 - Explore the Lightning economy from our app.
+
 We do not hold custody over your funds for longer than necessary.
 {{</ faq >}}
 
@@ -27,6 +29,7 @@ We do not hold custody over your funds for longer than necessary.
 
 {{< faq "What wallets are supported?" >}}
 You can use any wallet on the web client by copy-pasting an LN invoice, but for the best user experience on mobile we recommend the following wallets:
+
 - [Phoenix Wallet](https://play.google.com/store/apps/details?id=fr.acinq.phoenix.mainnet)
 - [Bluewallet](https://play.google.com/store/apps/details?id=io.bluewallet.bluewallet)(custodial)
 - [Breez Wallet](https://play.google.com/store/apps/details?id=com.breez.client)
@@ -45,9 +48,8 @@ You can use any wallet on the web client by copy-pasting an LN invoice, but for 
 {{</ faq >}}
 
 {{< faq "What information do we collect and why?" >}}
-Because we are a regulated company in Belgium that convert euro to bitcoin on behalf of our customers, we collect the following information from our customers.
+Because we are a regulated company in Belgium that convert euro to bitcoin on behalf of our customers, we collect the following information from our customers when they sign up:
 
-When you sign-up:
 - e-mail
 - Full name
 - Country of residence 
