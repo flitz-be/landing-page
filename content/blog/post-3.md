@@ -27,7 +27,7 @@ The problems we have with this approach are numerous:
 Because of this, we designed Flitz on the following principles:
 
 - No invasive KYC when buying small amounts.
-- Any euro's you send to us are immediately converted to BTC.
+- Any euro's you send to us are immediately converted to BTC at the most competetive rate possible.
 - Once we receive your funds, you get a notification and you can and should withdraw them immediately over the Lightning Network.
 
 I mean, come on. Pretty cool right?
