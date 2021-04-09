@@ -23,7 +23,7 @@ We do not hold custody over your funds for longer than necessary.
 - Transfer funds using a bank transfer or another payment method. You can find the details under your "Account" tab.
   Make sure to also copy-and-paste the payment description.
 - As soon as we get your payment, you will get a notification that you can withdraw your bitcoin.
-- Open the app and click withdraw. Your wallet should open automatically. For withdrawal using the web client, see "Web Client Withdrawal".
+- Open the app and click withdraw. Your wallet should open automatically. For withdrawal using the web client, copy paste an invoice in the [web client](https://app.flitz.be).
 - After confirming in your wallet, you will receive your funds. Congratulations!
 {{</ faq >}}
 
@@ -31,7 +31,7 @@ We do not hold custody over your funds for longer than necessary.
 You can use any wallet on the web client by copy-pasting an LN invoice, but for the best user experience on mobile we recommend the following wallets:
 
 - [Phoenix Wallet](https://play.google.com/store/apps/details?id=fr.acinq.phoenix.mainnet)
-- [Bluewallet](https://play.google.com/store/apps/details?id=io.bluewallet.bluewallet)(custodial)
+- [Bluewallet](https://play.google.com/store/apps/details?id=io.bluewallet.bluewallet)  (custodial)
 - [Breez Wallet](https://play.google.com/store/apps/details?id=com.breez.client)
 - [Wallet of Satoshi](https://play.google.com/store/apps/details?id=com.livingroomofsatoshi.wallet) (custodial)
 - [Zebedee Wallet](https://play.google.com/store/apps/details?id=io.zebedee.wallet) (custodial, integrated with a gaming platform)
@@ -50,7 +50,7 @@ You can use any wallet on the web client by copy-pasting an LN invoice, but for 
 {{< faq "What information do we collect and why?" >}}
 Because we are a regulated company in Belgium that convert euro to bitcoin on behalf of our customers, we collect the following information from our customers when they sign up:
 
-- e-mail
+- E-mail
 - Full name
 - Country of residence 
 
