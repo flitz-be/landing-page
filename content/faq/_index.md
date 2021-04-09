@@ -58,3 +58,11 @@ When you send us a bank transfer, we get this information as well, so giving us
 this information at sign-up time allows us to check this information, but you are
 not giving up information that would not be available to us anyway when you are using our platform.
 {{</ faq >}}
+{{< faq "What are the limits?" >}}
+- 1000 euro per month
+- Minimum transaction size: 5 euro
+- Maximum transaction size: 100 euro
+{{</ faq >}}
+{{< faq "What if I don't withdraw" >}}
+When you do not respond to our withdrawal requests for 2 weeks, we will invalidate the pending withdrawal and consider the funds as forfeited.
+{{</ faq >}}
