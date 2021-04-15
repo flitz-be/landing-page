@@ -42,12 +42,11 @@ Flitz Technologies enables the User to purchase bitcoin as a one-time purchase o
 
 TODO.
 ###  Cancellation, refusal of purchase orders
+TODO.
 
 The purchase of bitcoin through the Flitz Technologies Web App is final, and there are no refunds or cancellations. By placing a purchase order for bitcoin, the User makes a binding offer to purchase the bitcoin chosen by the User. 
 
 However, the User is able to withdraw the one-time or recurring order at any time with his/her bank according to the bank terms and conditions and no more investments into bitcoin will be made. 
-## Cancellation, refusal of purchase orders
-
 Todo 
 ## Termination of service
 
