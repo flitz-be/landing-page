@@ -33,16 +33,35 @@ Although Flitz Technologies intends to provide accurate and timely information o
 The information on the App and on the Website does not constitute legal, financial or investment advice and is not intended as a recommendation for buying, trading or selling bitcoin. Flitz Technologies recommends to seek advice of legal and financial experts before starting buying, trading or selling bitcoin. The bitcoin price in euro can be volatile. Buying and selling of bitcoin carries with it a high degree of risk. The User should be fully aware of the level of risk involved before trading. Any loss of data, bitcoin or profit is on the User’s sole responsibility. Flitz Technologies will not be responsible for the consequences of reliance upon any opinion or statement contained in the App or Website or for any omission. 
 
 There is always the possibility something unexpected happens with regard to bitcoin that causes the User’s bitcoin to be lost. Flitz Technologies strongly recommends to the User not to invest more than he/she is willing to lose. The User is solely responsible for any investment decisions.
+
+## Identification of the User
+
+When signing up to the Flitz Application, the User must give the following information:
+- First Name
+- Last Name
+- Nationality
+
+Todo further detail
 ## Purchase of bitcoin
 ###  General
 
 Flitz Technologies enables the User to purchase bitcoin as a one-time purchase or on a monthly, weekly or daily basis by placing a recurring order with the User’s bank. The one-time or recurring purchase amount is specified in advance by the User. The one-time or recurring order must be placed in Euro (EUR). 
 
-### Purchase process
+### Purchase and withdrawal process
 
-TODO.
+- Once the User sends EUR to Flitz Technologies, either through a SEPA transfer to our bank account or a payment made through one of our supported payment providers, Flitz Technologies will immediately use these funds to buy bitcoin on behalf of the User on one of our partnered exchanges. The bitcoin price and fee of this purchase are at the sole discretion of Flitz Technologies, but a very high effort is made to ensure that the bitcoin price is as close to the market price at the time of the purchase. The fees related to the purchase can be found on (https://flitz.be/faq).
+
+- The user is then notified of the purchase through various channel, which may include mobile notifications, e-mail, and other electronic communication channels.
+
+- The user is then expected to withdraw the bitcoin immediately to their own "Lightning" wallet. For a list of supported wallets see (https://flitz.be/faq), but through the Flitz Web client, _all_ Lightning wallets are supported that can generate a _Lightning Invoice_. In doing this, the User sends Flitz Technologies a _Lightning invoice_, as described in the [Bolt Specification](https://github.com/lightningnetwork/lightning-rfc).
+
+- Flitz Technologies will then pay the Lightning invoice provided by the User. In case of succes, 
+the transaction is considered completed and the User is now in complete control of the funds. Flitz Technologies no longer has any control over the funds and will not be held liable or responsible for loss of the funds or any unlawful use of the funds after the Lightning transaction has succesfully completed. In case of a failed transaction, the user may retry to complete the transaction. A succesful Lightning transaction can be characterized by the fact that we (Flitz Technologies) has knowledge of the _preimage_ corresponding to the _invoice_ send by the User in the previous step. 
+
+- When the purchase is made, the User has a maximum of 2 weeks to withdraw their funds in the way described above. Any funds not withdrawn by this timeframe are considered forfeited and will be held by Flitz Technologies.
+
+- The purchase of bitcoin is subject to monthly limits, which can be found on (https://flitz.be/faq).
 ###  Cancellation, refusal of purchase orders
-TODO.
 
 The purchase of bitcoin through the Flitz Technologies Web App is final, and there are no refunds or cancellations. By placing a purchase order for bitcoin, the User makes a binding offer to purchase the bitcoin chosen by the User. 
 
