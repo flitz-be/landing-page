@@ -2,10 +2,14 @@
 banner:
   title : "Join the monetary revolution"
   subTitle: "Flitz is the fastest, cheapest and easiest way to buy Bitcoin in Europe, delivered lightning fast to your own wallet."
+  links:
+    play_store: "https://play.google.com/store/apps/details?id=be.flitz.flitz_mobile_production"
   image :
     first: "images/flitz_home.png"
     second: "images/flitz_order.png"
     third: "images/flitz_wallets.png"
+    banner: "images/flitz_banner.png"
+    play_store: "images/get_it_play_store.png"
   button:
     enable : false
     label : "Pricing"

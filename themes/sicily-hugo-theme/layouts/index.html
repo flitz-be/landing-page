@@ -5,29 +5,19 @@
 <div class="mt-5">
     <div class="container vh-40">
         <div class="row">
+            <div class="row">
             <div class="col-md-6">
-                <div class="row">
-                    <div class="col pt-5 pb-5">
-                        <h1 class="pt-5" style="font-weight: bold;">{{.title}}</h1>
-                        <h4 class="pt-5" style="font-weight: bold;">{{.subTitle}}</h4>
-                        {{ if .button.enable }}
-                          {{ with .button }}
-                            <a href="{{.link}}" class="btn btn-outline-primary btn-lg" type="button" style="font-weight: bold;">{{.label}}</a>
-                          {{end}}
-                        {{end}}
-                      </div>
-                </div>
+                <h1>{{.title}}</h1>
+                <h4>{{.subTitle}}</h4>
             </div>
-            <div class="col-md-6">
-                <div class="row">
+            <div><a href="{{.links.play_store}}"><img src="{{ .image.play_store | absURL}}" width=250></a></div>
+            </div>
+               <div class="row">
                     <div class="row">
                         <img data-toggle="tooltip" data-bs-tooltip="" data-placement="bottom" class="img-fluid"
-                              src="{{ .image.second | absURL }}" title="{{.copyright}}" width="300" style="padding: 15px">
-                        <img data-toggle="tooltip" data-bs-tooltip="" data-placement="bottom" class="img-fluid"
-                              src="{{ .image.third | absURL }}" title="{{.copyright}}" width="300"style="padding: 15px">
+                              src="{{ .image.banner | absURL }}" title="{{.copyright}}" style="padding: 15px">
                     </div>
                 </div>
-            </div>
         </div>
     </div>
 </div>
