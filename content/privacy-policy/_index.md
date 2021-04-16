@@ -16,6 +16,7 @@ draft: false
 - your IP address used to access the website or app.
 - Any information regarding your Lightning Network wallet, derived from invoices that you shared with us throught the application
 - Any clicks on links within the application, which may use referal codes.
+
 The App may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. We may also provide links to third party websites that are not affiliated with the App. All third-party websites are out of our control and are not covered by this Privacy Policy. If you access third party sites using the links provided, the operators of these sites may collect information from you that could be used by them, in accordance with their own privacy policies. Please check these policies before you submit any personal data to those websites.
 ## How and why we use/share your information
 - Information that is required for logging into and using the app
