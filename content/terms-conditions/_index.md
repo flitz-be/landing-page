@@ -41,7 +41,11 @@ When signing up to the Flitz Application, the User must give the following infor
 - Last Name
 - Nationality
 
-Todo further detail
+The User needs to reside in a country where Flitz Technologies operates, and must have a bank account in this country.
+This information is only used to comply with Belgian AML and KYC regulation and will never be shared with 3rd parties for any purposes other than when requested by law enforcement in relation to criminal investigation.
+
+Then Flitz Technologies receives a payment from the User, the payment information shall be compared to this information submitted by the user.
+If this information is found to be incorrectly submitted, Flitz Technologies reserves the right to close the User's account and hold onto the funds sent by the User. If this is the case, the User can contact support, who will review these accounts on a case by case basis, and have full discretion to take any action deemed appropriate, such as reactivating the account, terminating the account, updating the account information, or reimbursing the User.
 ## Purchase of bitcoin
 ###  General
 
@@ -49,6 +53,7 @@ Flitz Technologies enables the User to purchase bitcoin as a one-time purchase o
 
 ### Purchase and withdrawal process
 
+- When sending funds in any way to Flitz Technologies, the User agrees to do this only from a bank account on their personal name. The user must reference the correct account id in the payment description. Once the first payment is made from a bank account, this bank account IBAN is considered fixed for the user, and sending payments from other bank accounts will not be processed. In this case Flitz Technologies reserves the right to deactivate the User's account, hold onto the funds, or to review the User's account. In the event of such a review, a decision may be made to reimburse the User in euro, but this is subject to a case-by-case evaluation.
 - Once the User sends EUR to Flitz Technologies, either through a SEPA transfer to our bank account or a payment made through one of our supported payment providers, Flitz Technologies will immediately use these funds to buy bitcoin on behalf of the User on one of our partnered exchanges. The bitcoin price and fee of this purchase are at the sole discretion of Flitz Technologies, but a very high effort is made to ensure that the bitcoin price is as close to the market price at the time of the purchase. The fees related to the purchase can be found on (https://flitz.be/faq).
 
 - The user is then notified of the purchase through various channel, which may include mobile notifications, e-mail, and other electronic communication channels.
