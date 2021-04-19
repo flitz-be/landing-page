@@ -27,7 +27,9 @@ such as your e-mail and device information is shared with Google and/or Apple, d
 - We are obligated to monitor your account for suspicious activity and share any findings of suspicious activity with Belgian regulators, as described in the Belgian law [VERPLICHTINGEN VAN DE ONDERWORPEN ENTITEITEN INZAKE DE VOORKOMING VAN HET WITWASSEN VAN GELD EN DE FINANCIERING VAN TERRORISME](https://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=nl&la=N&table_name=wet&cn=2017091806).
 
 Your data may be stored and or processed on one or more cloud platform. As of today, these cloud platforms are:
+
 - Amazon AWS
+- Google Firebase
 - Digital Ocean
 ## How long we keep your information
 We will hold your personal information on our systems only for as long as required to provide you with the products and services you have requested, including for the purposes of satisfying any legal, regulatory, tax, accounting or reporting requirements. We may retain your personal data for a longer period in the event of a complaint or if we reasonably believe there is a prospect of litigation in respect to our relationship with you.
@@ -60,7 +62,7 @@ You can exercise this right at any time by writing to us (hello@flitz.be) and te
 
 Where we process your personal data on the basis of a legitimate interest, you are entitled to ask us to stop processing it in that way if you feel that our continuing to do so impacts on your fundamental rights and freedoms or if you feel that those legitimate interests are not valid.
 
-You may also ask us to stop processing your personal data (a) if you dispute the accuracy of that personal data and want us verify that data’s accuracy; (b) where it has been established that our use of the data is unlawful but you do not want us to erase it; (c) where we no longer need to process your personal data (and would otherwise dispose of it) but you wish for us to continue storing it in order to enable you to establish, exercise or defend legal claims.
+You may also ask us to stop processing your personal data a) if you dispute the accuracy of that personal data and want us verify that data’s accuracy; b) where it has been established that our use of the data is unlawful but you do not want us to erase it; c) where we no longer need to process your personal data (and would otherwise dispose of it) but you wish for us to continue storing it in order to enable you to establish, exercise or defend legal claims.
 
 Please note that if for any reason we believe that we have a good legal reason to continue processing personal data that you ask us to stop processing, we will tell you what that reason is, either at the time we first respond to your request or after we have had the opportunity to consider and investigate it.
 

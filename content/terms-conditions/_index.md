@@ -37,6 +37,7 @@ There is always the possibility something unexpected happens with regard to bitc
 ## Identification of the User
 
 When signing up to the Flitz Application, the User must give the following information:
+
 - First Name
 - Last Name
 - Nationality
@@ -66,6 +67,10 @@ the transaction is considered completed and the User is now in complete control 
 - When the purchase is made, the User has a maximum of 2 weeks to withdraw their funds in the way described above. Any funds not withdrawn by this timeframe are considered forfeited and will be held by Flitz Technologies.
 
 - The purchase of bitcoin is subject to monthly limits, which can be found on (https://flitz.be/faq).
+
+## Links to 3rd party services
+Flitz Technologies provides links to 3rd party services inside the Flitz App. The User agrees that
+Flitz Technologies is in no way responsible for the result of any interaction between the User and these 3rd party services, including a loss of funds.
 ###  Cancellation, refusal of purchase orders
 
 The purchase of bitcoin through the Flitz Technologies Web App is final, and there are no refunds or cancellations. By placing a purchase order for bitcoin, the User makes a binding offer to purchase the bitcoin chosen by the User. 
