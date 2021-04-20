@@ -15,7 +15,7 @@ Flitz is your gateway drug to the Bitcoin world.
 - Dollar-cost-average easily by setting a recurring bank transfer.
 - Explore the Lightning economy from our app.
 
-We do not hold custody over your funds for longer than necessary.
+We do not hold custody over your funds for longer than necessary. You can and should take custody of the funds as soon as they are available.
 {{</ faq >}}
 
 {{< faq "How do I get started?" >}}
@@ -44,7 +44,9 @@ You can use any wallet on the web client by copy-pasting an LN invoice, but for 
 - [Bluewallet](https://play.google.com/store/apps/details?id=io.bluewallet.bluewallet)  (custodial)
 - [Breez Wallet](https://play.google.com/store/apps/details?id=com.breez.client)
 - [Wallet of Satoshi](https://play.google.com/store/apps/details?id=com.livingroomofsatoshi.wallet) (custodial)
-- [Zebedee Wallet](https://play.google.com/store/apps/details?id=io.zebedee.wallet) (custodial, integrated with a gaming platform)
+- [Zebedee Wallet](https://play.google.com/store/apps/details?id=io.zebedee.wallet) (custodial, integrated with a gaming platform).
+
+For a full list of available wallets, see the `Wallets` section in the app.
 {{</ faq >}}
 
 {{< faq "Where can I spend my coins?" >}}
@@ -55,13 +57,15 @@ You can use any wallet on the web client by copy-pasting an LN invoice, but for 
 - Buy Domino's pizza in the US: https://ln.pizza
 - Play [Lightnite](https://lightnite.io/), a Bitcoin-powered Fortnite-like game
 - Play [Zebedee](https://zebedee.io/), a Bitcoin-powered gaming platform. Earn bitcoin while playing CSGO and other games.
+
+For a full list of available merchants and services, see the `Merchants` section in the app.
 {{</ faq >}}
 
 
 {{< faq "What are the limits and the fees?" >}}
 - 1000 euro per month
 - Minimum transaction size: 5 euro
-- Maximum transaction size: 100 euro
+- Maximum transaction size: 1000 euro
 
 The fees are (at the moment) 1.5%. The BTC-EUR rate that you get is dependent on our upstream liquidity provider, but we will ensure you get a very sharp rate.
 {{</ faq >}}

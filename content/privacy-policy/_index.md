@@ -1,5 +1,5 @@
 ---
-title: "Privacy & Policy"
+title: "Privacy Policy"
 subtitle: ""
 # meta description
 description: "This is meta description"
