@@ -9,7 +9,7 @@
         "title":     "LNMarkets",
         "abstract":  "Get micro-rekt trading with leverage.",
         "link":      "https://lnmarkets.com",
-        "imageLink": "https://pbs.twimg.com/profile_images/1308784195049869312/oRIimAsC_400x400.jpg"
+        "imageLink": "https://pbs.twimg.com/profile_images/1382732341819367430/pDh7qSsi_400x400.png"
     },
     "breez": {
         "title":     "Breez",
@@ -40,11 +40,5 @@
         "abstract":  "Merchandise from the On the Brink podcast",
         "link":      "https://www.onthebrink.shop",
         "imageLink": "https://pbs.twimg.com/profile_images/1230915282996252674/md5pe6V2_400x400.jpg"
-    },
-    "tony-hawk": {
-        "title":     "Tony Hawk Foundation",
-        "abstract":  "Building skateparks for those who need them most, in the USA and elsewhere.",
-        "link":      "https://skatepark.org/donate",
-        "imageLink": "https://pbs.twimg.com/profile_images/1278839247189839874/V_yccIcg_400x400.jpg"
     }
 }
