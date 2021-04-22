@@ -5,11 +5,17 @@
         "link":      "https://bitrefill.com",
         "imageLink": "https://cdn-images-1.medium.com/max/92/1*tYGI4V5CtiuKHz1npzdHog@2x.jpeg"
     },
+        "giftoff": {
+        "title":     "Gift Off",
+        "abstract":  "Vouchers for Deliveroo, Bol.com, and more.",
+        "link":      "https://giftoff.com/gift-cards/all?country=BE",
+        "imageLink": "https://pbs.twimg.com/profile_images/1325900974049931264/18ygj5Ij_400x400.png"
+    },
     "lnmarkets": {
         "title":     "LNMarkets",
         "abstract":  "Get micro-rekt trading with leverage.",
         "link":      "https://lnmarkets.com",
-        "imageLink": "https://pbs.twimg.com/profile_images/1308784195049869312/oRIimAsC_400x400.jpg"
+        "imageLink": "https://pbs.twimg.com/profile_images/1382732341819367430/pDh7qSsi_400x400.png"
     },
     "breez": {
         "title":     "Breez",
@@ -41,10 +47,22 @@
         "link":      "https://www.onthebrink.shop",
         "imageLink": "https://pbs.twimg.com/profile_images/1230915282996252674/md5pe6V2_400x400.jpg"
     },
-    "tony-hawk": {
-        "title":     "Tony Hawk Foundation",
-        "abstract":  "Building skateparks for those who need them most, in the USA and elsewhere.",
-        "link":      "https://skatepark.org/donate",
-        "imageLink": "https://pbs.twimg.com/profile_images/1278839247189839874/V_yccIcg_400x400.jpg"
+    "joltfun": {
+        "title":     "Joltfun",
+        "abstract":  "Video game store",
+        "link":      "https://joltfun.com/",
+        "imageLink": "https://pbs.twimg.com/profile_images/1364689788696211461/LS7ipG8A_400x400.png"
+    },
+    "mt-socks": {
+        "title":     "Mount Socks",
+        "abstract":  "Bitcoin socks",
+        "link":      "https://www.mtsocks.com/Socks",
+        "imageLink": "https://pbs.twimg.com/profile_images/1275750632054575105/EgXqERD6_400x400.jpg"
+    },
+    "wikileaks": {
+        "title":     "Wikileaks shop",
+        "abstract":  "Free Assange",
+        "link":      "https://eu.wikileaks.shop/",
+        "imageLink": "https://pbs.twimg.com/profile_images/512138307870785536/Fe00yVS2_400x400.png"
     }
 }
