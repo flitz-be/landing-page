@@ -6,14 +6,13 @@ description: "This is meta description"
 draft: false
 ---
 
-# What is Lorem Ipsum
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+# Why did we start Flitz?
+We believe Bitcoin and especially the Lightning Network are amazing technologies that will allow the online micropayment economy to flourish and ultimately bring massive wealth to all of society by providing an open monetary and payment standard that anyone can participate in and build upon.
 
-# Why do we use it?
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+Flitz allows you to start participating in this economy in the fastest way possible and shows you what the future of money feels like.
+# Who are we?
+## Kwinten De Backer
 
+![Jessica, hello](https://kwintendebacker.com/images/foto.jpg)
 
-# Where does it come from?
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
-
-The standard chunk of Lorem Ipsum used since the 150
+Kwinten is a physicist-turned-software-engineer based in Ghent, Belgium. He has been active in the Lightning space since 2018. 2 minutes after learning about bitcoin, he was sad to learn it did not scale very well. 3 minutes after learning about it, he was enormously excited because he just discovered what was called the "Lightning Network". After having made small contributions to LN projects, having participated in LN hackdays, and having traveled to the LN conference in Berlin, he decided what was really needed was an open platform where people could enter the Bitcoin Lightning economy fast and frictionless. So, Flitz Technologies was born.
