@@ -2,6 +2,7 @@
 title: "Collection of personal information"
 date: 2020-04-18T10:07:21+06:00
 # post image
+image: "./images/logo.png"
 # post type (regular/featured)
 type: "regular"
 # meta description
