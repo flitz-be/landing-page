@@ -1,0 +1,32 @@
+[{
+    "name":     "Phoenix Wallet",
+    "abstract": "Easiest wallet for beginners.",
+    "playStorelink":     "https://play.google.com/store/apps/details?id=fr.acinq.phoenix.mainnet",
+    "custodial": false,
+    "imageUrl": "https://play-lh.googleusercontent.com/-COWRaEnelfOsbaatm7-DfUt_Fp6odGTngBXXdqySg4jkJ1A7eWdpV3fr0a7y9gpCuuZ"
+},
+{
+    "name":     "Breez Wallet",
+    "custodial": false,
+    "abstract": "Easy to use wallet.",
+    "playStorelink":     "https://play.google.com/store/apps/details?id=com.breez.client",
+    "appStorelink":     "https://testflight.apple.com/join/wPju2Du7",
+    "imageUrl": "https://lh3.googleusercontent.com/FyjUB6mH9ZerD65VXBosO9iDn5jJQneTbQ8pB5i1KMmAw5OuDBAQC5EpQegl3dz_BTEY"
+},
+{
+    "name":     "Bluewallet",
+    "abstract": "Very popular lightning (custodial) and bitcoin wallet.",
+    "playStorelink":     "https://play.google.com/store/apps/details?id=io.bluewallet.bluewallet",
+    "custodial": true,
+    "appStorelink":     "https://itunes.apple.com/app/bluewallet-bitcoin-wallet/id1376878040",
+    "imageUrl": "https://lh3.googleusercontent.com/baXy546Srucl3vM1yaHr060eBL9_mrk0NH2GGRRCMTrKbekbx2pI77WCaXmNwUqnqQ"
+},
+{
+    "custodial": true,
+    "name":     "Wallet of Satoshi",
+    "abstract": "Custodial, easy, Australian.",
+    "playStorelink":     "https://play.google.com/store/apps/details?id=com.livingroomofsatoshi.wallet",
+    "appStorelink":     "https://itunes.apple.com/app/wallet-of-satoshi/id1438599608",
+    "imageUrl": "https://play-lh.googleusercontent.com/D8eMGCxqzvJo8ZwPPLmUcEt32LQInEjfx2x40o61e1zoNpR4-lZRTQ-g1QXWJPRD_A"
+}
+]
