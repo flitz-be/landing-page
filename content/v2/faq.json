@@ -1,0 +1,36 @@
+[{
+    "title":    "What is this?",
+    "abstract": "Everything you need to know.",
+    "content": "faq/what.md"
+},
+{
+    "title":    "How do I get started?",
+    "abstract": "Join the revolution in no time",
+    "content": "faq/get-started.md"
+},
+{
+    "title":    "Which wallets are supported?",
+    "abstract": "A list of recommended Lightning wallets.",
+    "content": "faq/wallets.md"
+},
+{
+    "title":    "Where can I spend my coins?",
+    "abstract": "A non-exhaustive list of merchants",
+    "content": "faq/merchants.md"
+},
+{
+    "title":    "What information do we collect?",
+    "abstract": "Data security by design.",
+    "content": "faq/information-collection.md"
+},
+{
+    "title":    "What are the limits and fees?",
+    "abstract": "Very high limits, very low fees.",
+    "content": "faq/limits-fees.md"
+},
+{
+    "title":    "What if I don't withdraw?",
+    "abstract": "You should withdraw the funds asap.",
+    "content": "faq/no-withdraw.md"
+}
+]
