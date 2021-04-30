@@ -1,6 +1,5 @@
 [ 
-   
-       {
+{
         "title":     "LNMarkets",
         "abstract":  "Get micro-rekt trading with leverage.",
         "link":      "https://lnmarkets.com",
@@ -42,5 +41,5 @@
         "abstract":  "Play CS:GO and other games with real coins on the line",
         "link":      "https://zebedee.io/infuse",
         "imageLink": "https://pbs.twimg.com/profile_images/1174104872695861249/Q0MMQ0Ae_400x400.jpg"
-    },
+    }
 ]
