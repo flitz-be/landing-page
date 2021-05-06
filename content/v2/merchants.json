@@ -20,7 +20,7 @@
     {
         "title":     "Bitrefill",
         "abstract":  "Live on your bitcoin. Buy gift cards for Bol.com, Coolblue, IKEA, ...",
-        "link":      "https://www.bitrefill.com/embed?paymentMethod=lightning&email=EMAIL&zdummy=hoi",
+        "link":      "https://www.bitrefill.com/embed?paymentMethod=lightning&email=<EMAIL>&zdummy=hoi",
         "imageLink": "https://pbs.twimg.com/profile_images/1250468793031278594/vNVKrBp-_400x400.jpg"
     },
   {
