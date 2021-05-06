@@ -31,3 +31,4 @@ The initiative already has a significant number of large donations lined up, inc
 As the Bitcoin Beach project itself continues to demonstrate, Bitcoin is a powerful financial tool as well as a technology that engenders community and activism among those who use it. This fundraising campaign is another chance for Bitcoiners to demonstrate that and for the magical internet money to once again affect meaningful, tangible change in the lives of those who need it.
 
 [You can contribute using this link](https://strike.me/KatyDiaz).
+[Read the announcement on Twitter](https://twitter.com/milessuter/status/1389958108986941440).
