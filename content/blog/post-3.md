@@ -3,6 +3,7 @@ title: "Why buy your bitcoin on Flitz?"
 date: 2020-04-18T10:07:21+06:00
 # post image
 image: "./images/logo.png"
+imageLink: "https://flitz.be"
 # post type (regular/featured)
 type: "featured"
 # meta description
