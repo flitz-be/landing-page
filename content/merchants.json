@@ -29,6 +29,12 @@
         "link":      "https://boltz.exchange/",
         "imageLink": "https://pbs.twimg.com/profile_images/1260965874061594625/u7xInLB1_400x400.png"
     },
+    "fixedfloat": {
+        "title":     "FixedFloat",
+        "abstract":  "Buy DOGE and other altcoins with Lightning. Use Coinomi wallet to receive altcoins.",
+        "link":      "https://fixedfloat.com/",
+        "imageLink": "https://pbs.twimg.com/profile_images/1089550266611965953/WTaS9bgD_400x400.jpg"
+    },
     "zebedee": {
         "title":     "Zebedee",
         "abstract":  "Play CS:GO and other games with real coins on the line",
