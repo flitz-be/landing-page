@@ -31,7 +31,7 @@ name = "Privacy Policy"
 [params]
 author = "kwintendebacker"
 contact_form_action = "#"
-description = "This is meta description"
+description = "Join the monetary revolution."
 logo = "images/logo.png"
 logo_width = "200px"
 [params.company]
