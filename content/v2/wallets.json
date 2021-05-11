@@ -23,7 +23,7 @@
 },
 {
     "name":     "Zap Wallet",
-    "abstract": "More advanced Lightning wallet that you can connect to your own node.",
+    "abstract": "Lightning wallet that you can connect to your own node.",
     "playStorelink":     "https://play.google.com/store/apps/details?id=zapsolutions.zap",
     "custodial": false,
     "appStorelink":     "https://apps.apple.com/nl/app/zap-bitcoin-lightning-wallet/id1406311960",
