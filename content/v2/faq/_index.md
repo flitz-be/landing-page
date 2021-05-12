@@ -11,7 +11,7 @@ draft: false
 Flitz is your gateway drug to the Bitcoin world.
 
 - Buy bitcoin instantly in Europe with a bank transfer or other payment method.
-- Your coins are withdrawable instantly over the [Lightning Network](https://www.lopp.net/lightning-information.html). 
+- Your coins are withdrawable instantly over the [Lightning Network](https://www.youtube.com/watch?v=7QAmlcrZD2U). 
 - Dollar-cost-average easily by setting a recurring bank transfer.
 - Explore the Lightning economy from our app.
 
@@ -65,7 +65,7 @@ For a full list of available merchants and services, see the `Merchants` section
 {{< faq "What are the limits and the fees?" >}}
 - 1000 euro per month
 - Minimum transaction size: 5 euro
-- Maximum transaction size: 1000 euro
+- Maximum transaction size: 100 euro
 
 The fees are (at the moment) 1.5%. The BTC-EUR rate that you get is dependent on our upstream liquidity provider, but we will ensure you get a very sharp rate.
 {{</ faq >}}
