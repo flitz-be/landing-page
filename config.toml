@@ -41,7 +41,7 @@ city = "9000 Gent"
 country = "Belgium"
 email = "hello@flitz.be"
 [params.navigation_button]
-enable = true
+enable = false
 label = "Log in"
 link = "https://app.flitz.be"
 [[params.plugins.css]]

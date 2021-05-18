@@ -8,6 +8,8 @@
 }
 
 .navbar-light .navbar-nav .nav-link {
+  position: sticky;
+  z-index: 1;
   color: $text-color-dark;
 
   &:hover {

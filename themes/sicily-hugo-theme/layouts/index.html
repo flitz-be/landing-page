@@ -1,10 +1,15 @@
 {{ define "main" }}
 
+
 <!-- Banner -->
+<!-- The video -->
+<video autoplay muted loop id="myVideo">
+    <source src="videos/rain.mp4" type="video/mp4">
+</video>
 {{ with site.Data.homepage.banner }}
-<div class="mt-5">
+<div class="mt-5" >
     <div class="container vh-40">
-        <div class="row">
+        <div class="row" style="position:sticky;">
             <div class="row">
             <div class="col-md-6">
                 <h1>{{.title}}</h1>
@@ -13,12 +18,6 @@
             <div><a href="{{.links.play_store}}"><img src="{{ .image.play_store | absURL}}" width=250></a></div>
             <div><a href="{{.links.appcenter}}"><img src="{{ .image.appcenter | absURL}}" width=225 style="margin-left: 50px"></a></div>
             </div>
-               <div class="row">
-                    <div class="row">
-                        <img data-toggle="tooltip" data-bs-tooltip="" data-placement="bottom" class="img-fluid"
-                              src="{{ .image.banner | absURL }}" title="{{.copyright}}" style="padding: 15px">
-                    </div>
-                </div>
         </div>
     </div>
 </div>
