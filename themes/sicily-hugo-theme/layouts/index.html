@@ -4,7 +4,7 @@
 <!-- Banner -->
 <!-- The video -->
 <video autoplay muted loop id="myVideo">
-    <source src="videos/rain.mp4" type="video/mp4">
+    <source src="https://flitz-landing-site-assets.s3.eu-west-3.amazonaws.com/world_earth_nasa_planet_globe_space_310.mp4" type="video/mp4">
 </video>
 {{ with site.Data.homepage.banner }}
 <div class="mt-5" >
@@ -12,8 +12,8 @@
         <div class="row" style="position:sticky;">
             <div class="row">
             <div class="col-md-6">
-                <h1>{{.title}}</h1>
-                <h4>{{.subTitle}}</h4>
+                <h1 style="color: #a404d4;">{{.title}}</h1>
+                <h4 style="color: white;">{{.subTitle}}</h4>
             </div>
             <div><a href="{{.links.play_store}}"><img src="{{ .image.play_store | absURL}}" width=250></a></div>
             <div><a href="{{.links.appcenter}}"><img src="{{ .image.appcenter | absURL}}" width=225 style="margin-left: 50px"></a></div>
@@ -33,7 +33,7 @@
               <div class="row">
               {{ with site.Data.homepage.description }}
                   <div class="col">
-                      <p class="text-justify">
+                      <p class="text-justify" style="color: white;">
                         {{.content}}
                       </p>
                   </div>
