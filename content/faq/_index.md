@@ -1,5 +1,5 @@
 ---
-title: "Have question? Look here"
+title: "Have a question? Look here"
 subtitle: ""
 # meta description
 description: ""
