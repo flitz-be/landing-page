@@ -28,18 +28,6 @@
 <div class="vh-40 mt-5">
   <div class="container">
       <div class="row">
-          <div class="col-md-6 vh-20 d-none d-sm-block">
-              <div class="row vh-10"></div>
-              <div class="row">
-              {{ with site.Data.homepage.description }}
-                  <div class="col">
-                      <p class="text-justify" style="color: white;">
-                        {{.content}}
-                      </p>
-                  </div>
-              {{end}}
-              </div>
-          </div>
           <div class="col-md-6">
             {{ range site.Params.social}}
               <a href="{{.link}}" target="_blank">
