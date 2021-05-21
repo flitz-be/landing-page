@@ -37,8 +37,10 @@ logo_width = "200px"
 [params.company]
 name = "Flitz Technologies"
 address = "Blekerijstraat 75 1.29"
-city = "9000 Gent, Belgium"
-country = "KBO 0766.985.037"
+city = "9000 Gent"
+country = "Belgium"
+kbo = "KBO 0766.985.037"
+kboUrl = "https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?nummer=0766.985.037"
 email = "hello@flitz.be"
 [params.navigation_button]
 enable = false
