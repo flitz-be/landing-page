@@ -42,6 +42,7 @@ country = "Belgium"
 kbo = "KBO 0766.985.037"
 kboUrl = "https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?nummer=0766.985.037"
 email = "hello@flitz.be"
+twitter = "https://twitter.com/get_flitz"
 [params.navigation_button]
 enable = false
 label = "Log in"

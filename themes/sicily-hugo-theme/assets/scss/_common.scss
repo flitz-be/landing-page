@@ -183,7 +183,15 @@ textarea.form-control {
   min-width: 100%;
   min-height: 100%;
 }
-
+/* Style the video: 100% width and height to cover the entire window */
+#myVideo2 {
+  position: absolute;
+  right: 0;
+  top: 5500;
+  width: 80%;
+  min-width: 100%;
+  min-height: 100%;
+}
 /* Style the button used to pause/play the video */
 #myBtn {
   width: 200px;
