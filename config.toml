@@ -29,7 +29,7 @@ name = "FAQ"
 URL = "privacy-policy"
 name = "Privacy Policy"
 [params]
-author = "kwintendebacker"
+author = "Flitz Technogologies"
 contact_form_action = "#"
 description = "Join the monetary revolution."
 logo = "images/logo.png"
