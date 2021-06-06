@@ -87,6 +87,7 @@ When you send money to a Strike contact, you send it directly from your phone to
 #### Limits
 - For sending money to Flitz Contacts, the limit is 50 euro per payment.
 - For sending money to Strike contacts, Strike's own limits are in place.
+
 #### Information shared
 - When you share your Flitz ID with people, they will see your profile picture and your first name.
 #### Profile picture
