@@ -29,6 +29,11 @@
     "content": "faq/limits-fees.md"
 },
 {
+    "title":    "How does sending money to my contacts work?",
+    "abstract": "Everything about sending money to contacts.",
+    "content": "faq/contacts.md"
+},
+{
     "title":    "What if I don't withdraw?",
     "abstract": "You should withdraw the funds asap.",
     "content": "faq/no-withdraw.md"

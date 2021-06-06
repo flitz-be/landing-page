@@ -29,6 +29,11 @@
     "abstract": "Very high limits, very low fees.",
     "content": "faq/limits-fees.md"
 },
+"contacts": {
+    "title":    "How does sending money to my contacts work?",
+    "abstract": "Everything about sending money to contacts.",
+    "content": "faq/contacts.md"
+},
 "no-withdraw": {
     "title":    "What if I don't withdraw?",
     "abstract": "You should withdraw the funds asap.",
