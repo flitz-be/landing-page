@@ -90,6 +90,7 @@ When you send money to a Strike contact, you send it directly from your phone to
 
 #### Information shared
 - When you share your Flitz ID with people, they will see your profile picture and your first name.
+
 #### Profile picture
 You can change your profile picture on your account page.
 {{</ faq >}}
