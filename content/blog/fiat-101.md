@@ -15,8 +15,9 @@ Flitz is a Lightning Network gateway that allows you to buy Bitcoin. If you're n
 So, I'll start of by explaining traditional currencies.
 
 Money is such a central part of society that it's impossible for people to give any coherent definition of it. Yes you might have heard about the Holy Trinity: Store of Value, Medium of Exchange and Unit of Account. But that's a load of 💩 that boomer economists tend to throw around to hide the fact that economics isn't even a real science. They're all just making stuff up as they go along. 
+![]( ../../images/5chtru.jpg)
 
-Instead of rigorous definitions, how does an average person's interaction with money go?
+Instead of rigorous definitions, let's look at how an average person's interaction with money goes:
 
 - You open a bank account. 
 - Get a job, watch as the number on your bank account goes up by a certain amount every month.
