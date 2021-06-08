@@ -2,7 +2,7 @@
 title: "If you want to know water, don't ask the fish."
 date: 2020-04-18T10:07:21+06:00
 # post image
-image: "https://raw.githubusercontent.com/shocknet/bitcoin-lightning-logo/master/LOGO-01.png"
+image: "../../images/plato.jpeg"
 # post type (regular/featured)
 type: "regular"
 # meta description
@@ -34,6 +34,6 @@ As Satoshi said himself, the problem here is all the trust that's required, at e
 
 - **Purchasing power is declining left, right and center.** And I'm not even talking about what happened after COVID. Real estate prices have gone through the roof since 2008, indicating that nothing in the financial system has changed and everything is as rotten as it ever was. Luckily the price of a beer is stable, so people drink to forget they will never own a (decent) house. Indeed, the price of the __one__ thing that nearly everyone wants to buy is increasing at an instoppable pace, and the pandemic has only made it worse. Interest rates being near 0, a perverse feedback loop is created where rich people feel renting out property is the only thing that generates some cashflow, so they take out another loan, which they can get easily since they have enough assets to make the bank feel comfortable enough to let them borrow at rock bottom rates. People advocating for more government intervention to stop this spiral are missing the point: government intervention is what got us here in the first place. Yes, the central bank has become a political institution and everyone knows it. They might save us from short-term harm by keeping the printing press rumbling, but they are inevitably kicking the can down the road and they won't be able to save us from the demons at the end of said road.
 
-![]( ../../images/5chtu5f.jpg)
+![]( ../../images/5chu5f.jpg)
 
 In the next article, we'll explain what Bitcoin is and how it works.
