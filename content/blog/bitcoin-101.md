@@ -11,4 +11,6 @@ description: "If you don't understand or don't get it, read this post."
 draft: true
 ---
 
-Bitcoin
+## What is it
+
+The main thing to understand about Bitcoin is that it has both properties of a physical 
