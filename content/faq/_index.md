@@ -23,7 +23,7 @@ We do not hold custody over your funds for longer than necessary. You can and sh
 - Transfer funds using a bank transfer or another payment method. You can find the details under your "Account" tab.
   Make sure to also copy-and-paste the payment description.
 - As soon as we get your payment, you will get a notification that you can withdraw your bitcoin.
-- Open the app and click withdraw. Your wallet should open automatically. For withdrawal using the web client, copy paste an invoice in the [web client](https://app.flitz.be).
+- Open the app and click withdraw. Your wallet should open automatically.
 - After confirming in your wallet, you will receive your funds. Congratulations!
 {{</ faq >}}
 {{< faq "What information do we collect and why?" >}}
@@ -38,7 +38,7 @@ this information at sign-up time allows us to check this information, but you ar
 not giving up information that would not be available to us anyway when you are using our platform.
 {{</ faq >}}
 {{< faq "What wallets are supported?" >}}
-You can use any wallet on the web client by copy-pasting an LN invoice, but for the best user experience on mobile we recommend the following wallets:
+For the best user experience on mobile we recommend the following wallets:
 
 - [Phoenix Wallet](https://play.google.com/store/apps/details?id=fr.acinq.phoenix.mainnet)
 - [Bluewallet](https://play.google.com/store/apps/details?id=io.bluewallet.bluewallet)  (custodial)
