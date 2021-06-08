@@ -1,41 +1,41 @@
 [{
     "title":    "What is this?",
     "abstract": "Everything you need to know.",
-    "content": "faq/what.md"
+    "content": "faq/what"
 },
 {
     "title":    "How do I get started?",
     "abstract": "Join the revolution in no time",
-    "content": "faq/get-started.md"
+    "content": "faq/get-started"
 },
 {
     "title":    "Which wallets are supported?",
     "abstract": "A list of recommended Lightning wallets.",
-    "content": "faq/wallets.md"
+    "content": "faq/wallets"
 },
 {
     "title":    "Where can I spend my coins?",
     "abstract": "A non-exhaustive list of merchants",
-    "content": "faq/merchants.md"
+    "content": "faq/merchants"
 },
 {
     "title":    "What information do we collect?",
     "abstract": "Data security by design.",
-    "content": "faq/information-collection.md"
+    "content": "faq/information-collection"
 },
 {
     "title":    "What are the limits and fees?",
     "abstract": "Very high limits, very low fees.",
-    "content": "faq/limits-fees.md"
+    "content": "faq/limits-fees"
 },
 {
     "title":    "Send to contacts",
     "abstract": "Everything about sending money to contacts.",
-    "content": "faq/contacts.md"
+    "content": "faq/contacts"
 },
 {
     "title":    "What if I don't withdraw?",
     "abstract": "You should withdraw the funds asap.",
-    "content": "faq/no-withdraw.md"
+    "content": "faq/no-withdraw"
 }
 ]
