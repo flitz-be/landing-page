@@ -1,6 +1,6 @@
 ---
 title: "If you want to know water, don't ask the fish."
-date: 2020-04-18T10:07:21+06:00
+date: 2021-06-07T10:07:21+06:00
 # post image
 image: "../../images/plato.jpeg"
 # post type (regular/featured)
@@ -37,5 +37,9 @@ As Satoshi said himself, the problem here is all the trust that's required, at e
 ![]( ../../images/5chu5f.jpg)
 
 The reasons above are the reasons why Bitcoin is important. Yes, the price may go up and down and up again and down again, you might make lots of money or you might lose money. But that's not what it is about. It's about a revolution. A truly grassroots revolution based on open-source software and freedom of transaction. A most peaceful revolution.
+
+If you still aren't convinced, take some time and listen to the words of Andreas Antanopoulos:
+
+{{< youtube 6ZCVQHtD2l4 >}}
 
 In the next article, we'll explain what Bitcoin is and how it works.

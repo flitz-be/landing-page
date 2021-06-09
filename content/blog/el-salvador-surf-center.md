@@ -1,6 +1,6 @@
 ---
 title: "El Salvador’s Bitcoin Community Raising Donations For Memorial Surf Center"
-date: 2020-05-06T10:07:21+06:00
+date: 2021-05-06T10:07:21+06:00
 # post image
 image: "./images/el_zonte_donate.jpg"
 imageLink: "https://strike.me/KatyDiaz"

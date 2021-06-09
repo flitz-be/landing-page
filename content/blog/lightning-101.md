@@ -1,6 +1,6 @@
 ---
 title: "Introduction to the Lightning Network"
-date: 2020-04-18T10:07:21+06:00
+date: 2021-06-09T10:07:21+06:00
 # post image
 image: "https://raw.githubusercontent.com/shocknet/bitcoin-lightning-logo/master/LOGO-01.png"
 # post type (regular/featured)
