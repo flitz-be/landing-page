@@ -36,4 +36,6 @@ As Satoshi said himself, the problem here is all the trust that's required, at e
 
 ![]( ../../images/5chu5f.jpg)
 
+The reasons above are the reasons why Bitcoin is important. Yes, the price may go up and down and up again and down again, you might make lots of money or you might lose money. But that's not what it is about. It's about a revolution. A truly grassroots revolution based on open-source software and freedom of transaction. A most peaceful revolution.
+
 In the next article, we'll explain what Bitcoin is and how it works.
