@@ -45,6 +45,7 @@ Poon-Dryja payment channels introduce a mechanism where with every update, a sec
 
 Payment channels between 2 parties are interesting, but are not extremely useful. Lightning is however a *Network*, made out of thousands and thousands of these channels. You can pay anyone on the network, even if you have only 1 channel with 1 other person, provided that this person is connected to other people on the network. Like this, all you have to do in an ideal case, is only do 1 transaction on-chain, which you can then use an unlimited amount of times and never close. Constructed like this, Lightning allows Bitcoin to scale to an enormous amount of transactions without compromosing on the things that make it valuable.
 
+Please consult this [page](https://www.lopp.net/lightning-information.html) if you want to learn more about LN.
 Below, you can watch another explanation on the Lightning Network and also find tutorials on how to use some of the more popular Lightning wallets, Phoenix Wallet and Breez Wallet.
 ## A deep-dive explanation by Andreas Antonopoulos
 {{< youtube XCSfoiD8wUA >}}
