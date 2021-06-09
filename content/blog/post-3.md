@@ -27,8 +27,10 @@ The problems we have with this approach are numerous:
 
 Because of this, we designed Flitz on the following principles:
 
-- No invasive KYC when buying small amounts.
+- No invasive KYC. We can do this because we only allow you to buy small amounts of bitcoin each month, and we have enough information about you in the metadata that is included in your SEPA transfer to us.
 - Any euro's you send to us are immediately converted to BTC at the most competetive rate possible.
 - Once we receive your funds, you get a notification and you can and should withdraw them immediately over the Lightning Network.
+
+Other platforms might have Lightning Network support, but they are all designed in a way that includes them having custody over your funds, and withdrawing them to your own wallet might be possible but is certainly not user-friendly. **Our philosphy is that withdrawing to your own wallet should be the default and should be as easy as possible**.
 
 I mean, come on. Pretty cool right?
