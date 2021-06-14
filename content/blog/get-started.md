@@ -1,5 +1,5 @@
 ---
-title: "Get started on Flitz?"
+title: "Get started on Flitz"
 date: 2021-05-18T10:07:21+06:00
 # post image
 image: "./images/logo.png"
