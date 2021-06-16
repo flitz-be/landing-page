@@ -1,7 +1,7 @@
 baseURL = "https://flitz.be/"
 languageCode = "en-us"
 title = "Flitz"
-theme = ["sicily-hugo-theme"]
+theme = ["sicily-hugo-theme", "plausible-hugo"]
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.company]]
@@ -68,3 +68,8 @@ preloader = ""
 rol_email = "kwinten@flitz.be"
 rol_name = "Contact"
 rol_representative = "Kwinten De Backer"
+theme = ["plausible-hugo"]  # Add this theme to your already existing other themes
+[params.plausible]
+  enable = true  # Whether to enable plausible tracking
+  domain = "flitz.be"  # Plausible "domain" name/id in your dashboard
+  selfhosted_domain = "plausible.flitz.be"
