@@ -1,7 +1,8 @@
 <head>
   <meta charset="utf-8">
   <title>{{ .Title }}</title>
-  {{- partial "../plausible-hugo/plausible_head.html" . -}}
+  <script async defer data-domain="flitz.be" src="https://plausible.flitz.be/js/plausible.js"></script>
+
 
   {{ "<!-- mobile responsive meta -->" | safeHTML }}
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
