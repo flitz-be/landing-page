@@ -1,6 +1,3 @@
 [submodule "sicily-hugo-theme"]
 	path = sicily-hugo-theme
 	url = git@github.com:cristianmarint/sicily-hugo-theme.git
-[submodule "plausible-hugo"]
-	path = plausible-hugo
-	url = git@github.com:divinerites/plausible-hugo.git
