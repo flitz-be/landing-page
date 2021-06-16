@@ -1,4 +1,5 @@
 <head>
+  {{ partial "plausible_head.html" . }} 
   <meta charset="utf-8">
   <title>{{ .Title }}</title>
 
@@ -29,5 +30,4 @@
   {{ template "_internal/opengraph.html" . }}
   {{ template "_internal/google_analytics.html" . }}
   {{ template "_internal/google_analytics_async.html" . }}
-  
 </head>
