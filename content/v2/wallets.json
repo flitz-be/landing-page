@@ -1,7 +1,15 @@
 [{
     "name":     "Phoenix Wallet",
-    "abstract": "Easiest wallet for beginners.",
+    "abstract": "Easy wallet for beginners.",
     "playStorelink":     "https://play.google.com/store/apps/details?id=fr.acinq.phoenix.mainnet",
+    "custodial": false,
+    "imageUrl": "https://play-lh.googleusercontent.com/-COWRaEnelfOsbaatm7-DfUt_Fp6odGTngBXXdqySg4jkJ1A7eWdpV3fr0a7y9gpCuuZ"
+},
+{
+    "name":     "Muun Wallet",
+    "abstract": "Super user friendly wallet, beginner-proof.",
+    "playStorelink":     "https://play.google.com/store/apps/details?id=io.muun.apollo",
+    "appStorelink":     "https://apps.apple.com/us/app/muun-wallet/id1482037683",
     "custodial": false,
     "imageUrl": "https://play-lh.googleusercontent.com/-COWRaEnelfOsbaatm7-DfUt_Fp6odGTngBXXdqySg4jkJ1A7eWdpV3fr0a7y9gpCuuZ"
 },
