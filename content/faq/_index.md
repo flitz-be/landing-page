@@ -63,7 +63,7 @@ For a full list of available merchants and services, see the `Merchants` section
 {{< faq "What are the limits and the fees?" >}}
 - 1000 euro per month
 - Minimum transaction size: 5 euro
-- Maximum transaction size: 100 euro
+- Maximum transaction size: 1000 euro
 
 The fees are (at the moment) 1.5%. The BTC-EUR rate that you get is dependent on our upstream liquidity provider, but we will ensure you get a very sharp rate.
 {{</ faq >}}
@@ -95,13 +95,6 @@ When you send money to a Strike contact, you send it directly from your phone to
 You can change your profile picture on your account page.
 {{</ faq >}}
 
-{{< faq "What are the limits and the fees?" >}}
-- 1000 euro per month
-- Minimum transaction size: 5 euro
-- Maximum transaction size: 1000 euro
-
-The fees are (at the moment) 1.5%. The BTC-EUR rate that you get is dependent on our upstream liquidity provider, but we will ensure you get a very sharp rate.
-{{</ faq >}}
 {{< faq "What if I don't withdraw" >}}
 When you do not respond to our withdrawal requests for 2 weeks, we will invalidate the pending withdrawal and consider the funds as forfeited.
 {{</ faq >}}
