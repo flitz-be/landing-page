@@ -68,7 +68,7 @@ For a full list of available merchants and services, see the `Merchants` section
 The fees are (at the moment) 1.5%. The BTC-EUR rate that you get is dependent on our upstream liquidity provider, but we will ensure you get a very sharp rate.
 {{</ faq >}}
 {{< faq "What if I don't withdraw" >}}
-When you do not respond to our withdrawal requests for 2 weeks, we will invalidate the pending withdrawal and consider the funds as forfeited.
+Currently, nothing. But we are working on a system to encourage users to withdraw as soon as possible, because we do not want to hold your money for you.
 {{</ faq >}}
 {{< faq "How do the contacts work?" >}}
 #### Where are contacts stored
