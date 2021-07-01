@@ -94,7 +94,3 @@ When you send money to a Strike contact, you send it directly from your phone to
 #### Profile picture
 You can change your profile picture on your account page.
 {{</ faq >}}
-
-{{< faq "What if I don't withdraw" >}}
-When you do not respond to our withdrawal requests for 2 weeks, we will invalidate the pending withdrawal and consider the funds as forfeited.
-{{</ faq >}}
