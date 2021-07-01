@@ -64,8 +64,6 @@ Flitz Technologies enables the User to purchase bitcoin as a one-time purchase o
 - Flitz Technologies will then pay the Lightning invoice provided by the User. In case of succes, 
 the transaction is considered completed and the User is now in complete control of the funds. Flitz Technologies no longer has any control over the funds and will not be held liable or responsible for loss of the funds or any unlawful use of the funds after the Lightning transaction has succesfully completed. In case of a failed transaction, the user may retry to complete the transaction. A succesful Lightning transaction can be characterized by the fact that we (Flitz Technologies) has knowledge of the _preimage_ corresponding to the _invoice_ send by the User in the previous step. 
 
-- When the purchase is made, the User has a maximum of 2 weeks to withdraw their funds in the way described above. Any funds not withdrawn by this timeframe are considered forfeited and will be held by Flitz Technologies.
-
 - The purchase of bitcoin is subject to monthly limits, which can be found on (https://flitz.be/faq).
 
 ## Links to 3rd party services
