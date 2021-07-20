@@ -20,11 +20,8 @@ We do not hold custody over your funds for longer than necessary. You can and sh
 
 
 {{< faq "Which countries are supported?" >}}
-- Belgium
-- France
-- Germany
-- The Netherlands
 - Austria
+- Belgium
 - Bulgaria
 - Croatia
 - Cyprus
@@ -32,6 +29,8 @@ We do not hold custody over your funds for longer than necessary. You can and sh
 - Denmark
 - Estonia
 - Finland
+- France
+- Germany
 - Greece
 - Hungary
 - Ireland
@@ -40,6 +39,7 @@ We do not hold custody over your funds for longer than necessary. You can and sh
 - Lithuania
 - Luxemburg
 - Malta
+- The Netherlands
 - Poland
 - Portugal
 - Romania
