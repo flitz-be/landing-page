@@ -18,6 +18,40 @@ Flitz is your gateway drug to the Bitcoin world.
 We do not hold custody over your funds for longer than necessary. You can and should take custody of the funds as soon as they are available.
 {{</ faq >}}
 
+
+{{< faq "Which countries are supported?" >}}
+- Belgium
+- France
+- Germany
+- The Netherlands
+- Austria
+- Bulgaria
+- Croatia
+- Cyprus
+- Czechia
+- Denmark
+- Estonia
+- Finland
+- Greece
+- Hungary
+- Ireland
+- Italy
+- Latvia
+- Lithuania
+- Luxemburg
+- Malta
+- Poland
+- Portugal
+- Romania
+- Slovakia
+- Slovenia
+- Spain
+- Sweden
+- Norway
+- Switzerland
+- Iceland
+{{</ faq >}}
+
 {{< faq "How do I get started?" >}}
 - Install a Lightning wallet on your phone or computer (see 'Which wallets are supported' for a list of wallets).
 - Transfer funds using a bank transfer or another payment method. You can find the details under your "Account" tab.

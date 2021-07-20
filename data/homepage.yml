@@ -1,7 +1,7 @@
 ####################### Banner #########################
 banner:
   title : "Join the monetary revolution"
-  subTitle: "Flitz is the best way to buy Bitcoin in Europe, delivered lightning fast to your own wallet. Supported countries: 🇩🇪 🇫🇷 🇳🇱 🇧🇪"
+  subTitle: "Flitz is the best way to buy Bitcoin in Europe, delivered lightning fast to your own wallet.
   links:
     play_store: "https://play.google.com/store/apps/details?id=be.flitz.flitz_mobile_production"
     appcenter: "https://testflight.apple.com/join/1yRlkZoj"
