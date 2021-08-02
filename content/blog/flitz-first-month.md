@@ -23,7 +23,7 @@ On the first of July 2021, Flitz was announced, the very first European Lightnin
 Our C-Lightning node has
 
 - Processed 344 payments
-- totaling 56.998.171 sats (that's over half a bitcoin)
+- Totaling 56.998.171 sats (that's over half a bitcoin)
 - For a TOTAL fee of 24.672 sat - just over 8 EUR.
 
 __Let us say that again: we sent out over 15K EUR for a fee of 8 EUR. That's 0.04 %.__
