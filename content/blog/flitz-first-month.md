@@ -11,20 +11,20 @@ description: "Flitz: the first month"
 draft: false
 ---
 
-On the first of July, Flitz was announced, the very first European Lightning-native buy-bitcoin platform. One month has passed and I would like to share with you some interesting statistics.
+On the first of July 2021, Flitz was announced, the very first European Lightning-native buy-bitcoin platform. One month has passed and I would like to share some interesting statistics with you.
 ### Users and Revenue
 - 200+ users
 - 11 Countries
 - 🇩🇪 leading the way: most users are from Germany 
-- 15.000 EUR converted into Bitcoin and deposited straight into Lightning wallets
+- 15.000+ EUR converted into Bitcoin and deposited straight into Lightning wallets
 - 🐳 Largest payment was 1000 EUR.
 
 ### Lightning
 Our C-Lightning node has
 
 - Processed 344 payments
-- totaling 56,998,171 sats (that's over half a bitcoin)
-- For a TOTAL fee of 24,672 sat - just over 8 EUR.
+- totaling 56.998.171 sats (that's over half a bitcoin)
+- For a TOTAL fee of 24.672 sat - just over 8 EUR.
 
 __Let me say that again: we sent out over 15K EUR for a fee of 8 EUR. That's 0.04 %.__
 ### Looking ahead
