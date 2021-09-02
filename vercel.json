@@ -1,6 +1,6 @@
 {
   "rewrites": [
-    { "source": "/.well-known/lnurlp/(.*)", "destination": "https://api.flitz.be" }
+    { "source": "/.well-known/lnurlp/(.*)", "destination": "https://dev-api.flitz.be/lnurl-pay$1" }
   ]
 }
 
