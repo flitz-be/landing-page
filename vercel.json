@@ -1,0 +1,6 @@
+{
+  "redirects": [
+    { "source": "/.well-known/lnurlp/(.*)", "destination": "https://api.flitz.be" }
+  ]
+}
+
