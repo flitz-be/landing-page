@@ -64,7 +64,7 @@ For a full list of available merchants and services, see the `Merchants` section
 
 {{< faq "What are the limits and the fees?" >}}
 - 1000 euro per month
-- Minimum transaction size: 5 euro
+- Minimum transaction size: 20 euro
 - Maximum transaction size: 1000 euro
 
 The fees are (at the moment) 1.5%. The BTC-EUR rate that you get is dependent on our upstream liquidity provider, but we will ensure you get a very sharp rate.

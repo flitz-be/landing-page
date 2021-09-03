@@ -1,6 +1,6 @@
 ## Limits
 - 1000 euro per month
-- Minimum transaction size: 5 euro
+- Minimum transaction size: 20 euro
 - Maximum transaction size: 1000 euro
 
 ## Fees
