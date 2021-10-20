@@ -74,7 +74,6 @@ Flitz Technologies is in no way responsible for the result of any interaction be
 The purchase of bitcoin through the Flitz Technologies Web App is final, and there are no refunds or cancellations. By placing a purchase order for bitcoin, the User makes a binding offer to purchase the bitcoin chosen by the User. 
 
 However, the User is able to withdraw the one-time or recurring order at any time with his/her bank according to the bank terms and conditions and no more investments into bitcoin will be made. 
-Todo 
 ## Termination of service
 
 The User may at any time, at its sole discretion, terminate the one-time or recurring order with his/her bank or stop using the App. There is no minimum investment term. It is in the sole discretion of the User whether he/she wants to continue to use the App or not. 
