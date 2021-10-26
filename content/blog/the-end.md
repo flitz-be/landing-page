@@ -45,10 +45,10 @@ Over the course of 3 months, hundreds of users have pumped almost 100.000 EUR st
 **The Flitz app is not going to disappear.** You can continue to open it, and Android will even get an update. **You will be able to export all your transactions**, a feature that was asked by many. Below you can find a timeline.
 **If you have any recurring payments to Flitz, please stop them as soon as possible.**
 
-- 29/10 Blog post published, Play Store links removed from site.
-- 1/11 New sign-ups will be halted, SEPA deposit information will be removed from the app.
+- 29/10 Blog post published, Play Store links removed from site. New sign-ups will be halted, SEPA deposit information will be removed from the app.
 - 8/11 00:00 CET Incoming SEPA deposits won't be processed anymore and will be sent back.
 - 25/12 New feature: exporting transactions
+- 31/12 Withdrawals halted
 
 As for me, it's back to normie life for a while. I have more ideas though. I want to contribute to some open source projects that made Flitz possible. And why not an open-source, self-hosted version of Flitz? With more and more exchanges supporting Lightning (shout-out [Okcoin](https://okcoin.com)!), possibilities open up to make some real cool, completely self-hosted stuff. Maybe a new generation of the Flitz app connects to your own back-end infrastructure, exchange or node. BOLT12 and LN Address will completely transform how we use Lightning, and I certainly want to build more stuff using those technologies.
 
